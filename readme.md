@@ -5,6 +5,9 @@ Configuração
 Para utilizar basta apenas criar uma nova base de dados com o sql disponivel na pasta bancoDados,
 o arquivo de conexão encontra-se em codes/config.php.
 
+para ter acesso ao painel administrativo o acesso do usuário deve-ser alterado na tabela para 12
+enquanto os usuários comuns possuem nivel de acesso 1.
+
 Este foi o meu primeiro projeto por isso vocês podem estranhar o nivel do codigo e a quantidade de codigo repetido dentro do projeto
 
 O projeto é disponibilizado em sua totalidade de graça, onde sua venda é terminantemente proibida ... também não recomendo a sua utilização
