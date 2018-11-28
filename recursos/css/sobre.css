@@ -1,0 +1,15 @@
+.jumbotron{
+    background: url("http://www.mangainformatica.com.br/recursos/imagens/login_fundo.jpg") no-repeat center;
+    margin-top: 55px;
+    margin-bottom: -55px;
+    border-radius: 0rem;
+}
+.jumbotron h1{
+    color: white;
+    font-size: 29pt;
+}
+.jumbotron p{
+    color: white;
+    font-size: 14pt;
+    font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,28 @@
+.menu-topo{
+    background-color: #263271;
+}
+ul li a{
+    color: white !important;
+}
+ul li a:hover{
+    color: #cfd3f7 !important;
+}
+.dropdown-item{
+    color: black !important;
+}
+.instagram{
+    font-size: 22pt;
+    margin-left: 10px;
+    color: whitesmoke;
+}
+.instagram:hover{
+    color: red !important;
+}
+
+a{
+    color: white;
+}
+a:hover{
+    color: #cfd3f7 !important;
+}
+

@@ -1,0 +1,17 @@
+body{
+    background: url("../imagens/login_fundo.jpg")  center;
+}
+.perguntas{
+    margin-top: 100px;
+    background-color: transparent;
+}
+.card{
+    background-color: transparent;
+    color: white;
+    text-transform: uppercase;
+    border: lightgray 1px solid;
+}
+.card .card-header button{
+    text-transform: uppercase;
+    color: white;
+}

@@ -1,0 +1,13 @@
+[18-Jun-2018 17:27:42 America/Sao_Paulo] PHP Fatal error:  Class 'Ferramentas' not found in /home/mangainf/public_html/codes/Dashboard.php on line 79
+[20-Jun-2018 16:18:27 America/Sao_Paulo] PHP Warning:  mysqli_query(): Empty query in /home/mangainf/public_html/codes/Dashboard.php on line 308
+[20-Jun-2018 16:18:27 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 309
+[20-Jun-2018 16:18:37 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 309
+[20-Jun-2018 16:29:38 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 301
+[20-Jun-2018 16:29:56 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 301
+[20-Jun-2018 16:30:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 301
+[20-Jun-2018 16:32:31 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 301
+[20-Jun-2018 16:32:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 301
+[20-Jun-2018 16:33:01 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 301
+[20-Jun-2018 16:33:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 301
+[20-Jun-2018 16:33:59 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mangainf/public_html/codes/Dashboard.php on line 301
+[20-Jun-2018 18:01:13 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Dashboard::exibirItensPedido() in /home/mangainf/public_html/adm/exibirPedido.php on line 164

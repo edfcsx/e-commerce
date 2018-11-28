@@ -1,0 +1,11 @@
+AddHandler application/x-httpd-php56 .php 
+<IfModule mod_suphp.c>
+suPHP_ConfigPath /home/mangainf/php.ini
+</IfModule>
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+
+

@@ -1,0 +1,12 @@
+.menu{
+    margin-bottom: 100px;
+}
+body{
+    background: url("../imagens/login_fundo.jpg")  center;
+}
+form h5{
+    color: white;
+}
+form label{
+    color: white;
+}

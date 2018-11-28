@@ -1,0 +1,10 @@
+body{
+    background: url("http://www.mangainformatica.com.br/recursos/imagens/login_fundo.jpg") no-repeat center;
+}
+.menu{
+margin-bottom: 120px;
+}
+.jumbotron{
+    background-color: transparent;
+    color: white;
+}

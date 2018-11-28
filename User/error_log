@@ -1,0 +1,28 @@
+[27-Jun-2018 15:12:44 America/Sao_Paulo] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/mangainf/public_html/recursos/mpdf/src/Mpdf.php on line 56
+[27-Jun-2018 15:19:03 America/Sao_Paulo] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/mangainf/public_html/recursos/mpdf/src/Mpdf.php on line 56
+[27-Jun-2018 15:24:24 America/Sao_Paulo] PHP Fatal error:  Class 'Psr\Log\NullLogger' not found in /home/mangainf/public_html/recursos/mpdf/src/Mpdf.php on line 963
+[27-Jun-2018 15:45:46 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf\Dompdf' not found in /home/mangainf/public_html/user/print.php on line 6
+[27-Jun-2018 15:46:44 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf\Dompdf' not found in /home/mangainf/public_html/user/print.php on line 6
+[27-Jun-2018 15:47:37 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf' not found in /home/mangainf/public_html/user/print.php on line 5
+[27-Jun-2018 15:48:07 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf\Options' not found in /home/mangainf/public_html/recursos/dompdf/Dompdf.php on line 281
+[27-Jun-2018 15:48:33 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf\CanvasFactory' not found in /home/mangainf/public_html/recursos/dompdf/Dompdf.php on line 294
+[27-Jun-2018 15:48:55 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf\Adapter\CPDF' not found in /home/mangainf/public_html/recursos/dompdf/CanvasFactory.php on line 57
+[27-Jun-2018 15:49:30 America/Sao_Paulo] PHP Fatal error:  Interface 'Dompdf\Canvas' not found in /home/mangainf/public_html/recursos/dompdf/Adapter/CPDF.php on line 38
+[27-Jun-2018 15:49:52 America/Sao_Paulo] PHP Fatal error:  Interface 'Dompdf\Canvas' not found in /home/mangainf/public_html/recursos/dompdf/Adapter/CPDF.php on line 38
+[27-Jun-2018 15:54:01 America/Sao_Paulo] PHP Warning:  require_once(../recursos/dompdf/Autoloader.php): failed to open stream: No such file or directory in /home/mangainf/public_html/user/print.php on line 3
+[27-Jun-2018 15:54:01 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../recursos/dompdf/Autoloader.php' (include_path='.:/opt/php55/lib/php') in /home/mangainf/public_html/user/print.php on line 3
+[27-Jun-2018 15:54:43 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf\Dompdf' not found in /home/mangainf/public_html/user/print.php on line 7
+[27-Jun-2018 15:55:08 America/Sao_Paulo] PHP Fatal error:  Interface 'Dompdf\Canvas' not found in /home/mangainf/public_html/recursos/Dompdf/Adapter/CPDF.php on line 38
+[27-Jun-2018 15:55:52 America/Sao_Paulo] PHP Warning:  require_once(../Canvas.php): failed to open stream: No such file or directory in /home/mangainf/public_html/recursos/Dompdf/Adapter/CPDF.php on line 37
+[27-Jun-2018 15:55:52 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../Canvas.php' (include_path='.:/opt/php55/lib/php') in /home/mangainf/public_html/recursos/Dompdf/Adapter/CPDF.php on line 37
+[27-Jun-2018 15:56:32 America/Sao_Paulo] PHP Warning:  include(../Canvas.php): failed to open stream: No such file or directory in /home/mangainf/public_html/recursos/Dompdf/Adapter/CPDF.php on line 37
+[27-Jun-2018 15:56:32 America/Sao_Paulo] PHP Warning:  include(../Canvas.php): failed to open stream: No such file or directory in /home/mangainf/public_html/recursos/Dompdf/Adapter/CPDF.php on line 37
+[27-Jun-2018 15:56:32 America/Sao_Paulo] PHP Warning:  include(): Failed opening '../Canvas.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/mangainf/public_html/recursos/Dompdf/Adapter/CPDF.php on line 37
+[27-Jun-2018 15:56:32 America/Sao_Paulo] PHP Fatal error:  Interface 'Dompdf\Canvas' not found in /home/mangainf/public_html/recursos/Dompdf/Adapter/CPDF.php on line 39
+[27-Jun-2018 16:04:52 America/Sao_Paulo] PHP Warning:  require_once(../recursos/Dompdf/Autoloader.php): failed to open stream: No such file or directory in /home/mangainf/public_html/user/print.php on line 3
+[27-Jun-2018 16:04:52 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../recursos/Dompdf/Autoloader.php' (include_path='.:/opt/php55/lib/php') in /home/mangainf/public_html/user/print.php on line 3
+[27-Jun-2018 16:10:12 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf' not found in /home/mangainf/public_html/user/print.php on line 5
+[27-Jun-2018 16:10:26 America/Sao_Paulo] PHP Fatal error:  Class 'Dompdf\Dompdf' not found in /home/mangainf/public_html/user/print.php on line 6
+[27-Jun-2018 17:28:58 America/Sao_Paulo] PHP Fatal error:  Class 'User' not found in /home/mangainf/public_html/user/print.php on line 44
+[27-Jun-2018 17:30:08 America/Sao_Paulo] PHP Fatal error:  Class 'User' not found in /home/mangainf/public_html/user/print.php on line 56
+[27-Jun-2018 17:35:47 America/Sao_Paulo] PHP Fatal error:  Class 'User' not found in /home/mangainf/public_html/user/print.php on line 53
